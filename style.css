@@ -1,0 +1,21 @@
+   body{ 
+    background-color:plum; 
+    background: linear-gradient(rgb(175, 130, 238),plum);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;  
+         border:0;
+         padding:0;
+    }
+    form{
+    background-color: white;
+    justify-content: center;
+    padding:20px;
+    width: 420px;    }
+    .submitbtn{
+        background-color:white;
+        color:black;
+        padding: 2px;
+     
+    }
